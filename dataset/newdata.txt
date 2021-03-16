@@ -1,0 +1,3 @@
+regionid,qty
+a01,100
+a02,200
